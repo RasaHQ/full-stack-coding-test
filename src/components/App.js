@@ -41,14 +41,16 @@ class App extends Component {
         </header>
         <section>
           <p>
-            Rasa is writing a new natural language classifier to sort useful concepts in tech from meaningless jargon <span role="img" aria-label="Hell yeah">💯</span>.
-            You are writing the interface to help us train the classifier! One of the important parts of the interface is
-            what we call the EntityHighlighter, which allows the user to highlight and identify parts of a string.
+            Rasa is writing a new natural language classifier to sort useful concepts in tech from meaningless jargon.
+            One of the parts of it is what we call the EntityHighlighter, which allows the user to highlight and 
+            identify parts of a string.
             Try clicking existing highlights, or adding some of your own by selecting some text and filling the form.
           </p>
           <p>
-            However, the code is in a bit of a mess and a nightmare to maintain - <span role="img" aria-label="Oh no">😱</span> everyone is afraid of touching it!
-            Your task is to refactor <code>EntityHighlighter.js</code> and fix any bugs you find.
+            However, the code is in a bit of a mess <span role="img" aria-label="Oh no">😱</span>
+            We want you to highlight the existing problems of <code>EntityHighlighter.js</code>. 
+            It's not about fixing or rewriting it — let's assume this code was written by another developer, 
+            and you're working on reviewing it.
           </p>
         </section>
         <section>
