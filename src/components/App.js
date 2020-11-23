@@ -48,8 +48,8 @@ class App extends Component {
           </p>
           <p>
             However, the code is in a bit of a mess <span role="img" aria-label="Oh no">😱</span>
-            We want you to highlight the existing problems of <code>EntityHighlighter.js</code>. 
-            It's not about fixing or rewriting it — let's assume this code was written by another developer, 
+            We want you to highlight the existing problems of <code>EntityHighlighter</code> component.
+            It's not about fixing or rewriting it — let's assume this code was written by another developer,
             and you're working on reviewing it.
           </p>
         </section>
