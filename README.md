@@ -17,5 +17,4 @@ Here is what we expect from this component:
 - Of course, it should work fast and be suitable for usage in different parts of our application.
 
 A colleague of yours submitted the complete implementation of `EntityHighliter.js` in a pull request 
-to be reviewed by you. This code will be merged immediately after your review. 
-Your goal is to identify and mark any issues with the pull request.
+to be reviewed by you. Your goal is to identify and mark any issues with the pull request.
