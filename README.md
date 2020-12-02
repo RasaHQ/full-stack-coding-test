@@ -16,5 +16,5 @@ Here is what we expect from this component:
 - Colors for different entity labels should be different;
 - Of course, it should be suitable for usage in different parts of our application.
 
-A colleague of yours submitted the complete implementation of `EntityHighliter.js` in a pull request 
+A colleague of yours submitted the complete implementation of `EntityHighlighter.js` in a pull request 
 to be reviewed by you. Your goal is to identify and mark any issues with the pull request.
